@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Reestar__title{
+    background-color: black;
+    padding: 20px;
+}
+.flew__container{
+    display: flex;
+    justify-content:center;
+    padding-top: 20px;
+}
+.Reestar__desc{
+    width: 200px;
+    height: 288px;
+    border: solid 1px;
+    margin: 5px;
+}
+.Reestar__contact{
+    margin: 40px;
+    padding-top: 40px;
+    background-color: black;
+    color: aliceblue;
+}
+.Reestar__contact--send{
+    width: 400px;
+    background-color: yellow;
+}
+.submit{
+    background-color: black;
+    color: white;
+}
